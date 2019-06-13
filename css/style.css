@@ -34,7 +34,8 @@ section{
 }
 
 #results h3{
-    background-color: #410064;
+    background-color: yellow;
+    color: #410064;
     padding: 10px;
     margin: 10px 0;
 }
